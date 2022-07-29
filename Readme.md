@@ -2,7 +2,9 @@
 
 - This project is a landing page for SASS. 
 
+[Netlify](https://sass-landing-page-harshthakkar1011.netlify.app)
 
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
