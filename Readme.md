@@ -1,6 +1,6 @@
 # **Project 13 - SASS Landing Page**
 
-- This project is a landing page for SASS. 
+- This project is a landing page for SASS. It is Fully Responsive.
 
 [Netlify](https://sass-landing-page-harshcodes.netlify.app)
 
